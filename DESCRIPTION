@@ -1,0 +1,15 @@
+Package: iteRate
+Type: Package
+Title: Iteration analysis on distance matrices
+Version: 0.1.0
+Author: Håkon Kaspersen
+Maintainer: Håkon Kaspersen <hakon.kaspersen@vetinst.no>
+Description: Iteration analysis for identifying relatedness between isolates based on distances from distance matrices.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
+Imports:
+  dplyr,
+  tidyr
+RoxygenNote: 6.1.1
